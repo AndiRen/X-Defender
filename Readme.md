@@ -4,7 +4,7 @@ X-Defender
 ABOUT
 
 The game is a clone of space invaders, consisting of one demo level (with boss fight!).
-
+This repository houses the zip file which contains the .exe file and its dependencies.
 
 ---
 Compatability
@@ -14,10 +14,10 @@ The .exe file was made for windows 10
 ---
 Instructions for Download
 
-This repository houses the zip file which contains the .exe file and its dependencies.
-The zip file doesn't display on the GitHub file display window.
-To download and play the game, either click the "download" button, or click the "View raw" link.
-This will download the zip file to your computer
+1. Click on the link for the zip file folder.
+   Note - The zip file doesn't display its contents on the GitHub file display window.
+2. To download the game, either click the "download" button, or click the "View raw" link.
+3. Unzip and enjoy!
 
 ---
 *NOTE*
