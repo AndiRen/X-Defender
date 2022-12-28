@@ -15,5 +15,5 @@ Having sound turned on (with speaker of headphones in use) is necessary, or the 
 ---
 INSTRUCTIONS FOR PLAY
 
-1. Run main.py to launch the game 
+1. Run main.py to launch the game. 
 2. Enjoy!
