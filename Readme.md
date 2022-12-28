@@ -9,7 +9,8 @@ This repository houses the zip file which contains the .exe file and its depende
 ---
 Compatability
 
-The .exe file was made for windows 10
+The .exe file was made for windows 10  
+Having sound turned on (with speaker of headphones) is necessary, or the game will crash.
 
 ---
 Instructions for Download
