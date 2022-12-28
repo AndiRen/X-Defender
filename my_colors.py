@@ -1,0 +1,16 @@
+black = (0, 0, 0)
+black2 = [0, 0, 0]
+white = (255, 255, 255)
+white2 = [255, 255, 255]
+fadeGrey = (170, 170, 170)
+red = (255, 0, 0)
+darkGreen = (60, 130, 15)
+darkGrey = (60, 50, 60)
+blueGreen = (25, 125, 185)
+greyBlue = (90, 150, 180)
+greyRed = (102, 0, 50)
+greyRed2 = (100, 50, 50)
+grey = (192, 192, 192)
+darkGrey2 = (125, 125, 125)
+laserGreen = (100, 255, 100)
+laserRed = (255, 100, 100)
