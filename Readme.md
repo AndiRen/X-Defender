@@ -4,25 +4,16 @@ X-Defender
 ABOUT
 
 The game is a clone of space invaders, consisting of one demo level (with boss fight!).  
-This repository houses the zip file which contains the .exe file and its dependencies.
+This repository houses the python scripts and media files needed to run the game.
 
 ---
-Compatability
+REQUIREMENTS
 
-The .exe file was made for windows 10  
+You will need to install the pygame module (v. 2.1.2 used).  
 Having sound turned on (with speaker of headphones in use) is necessary, or the game will crash.
 
 ---
-Instructions for Download
+INSTRUCTIONS FOR PLAY
 
-1. Click on the link for the zip file folder.  
-   Note - The zip file doesn't display its contents on the GitHub file display window.
-2. To download the game, either click the "download" button, or click the "View raw" link.
-3. Unzip and enjoy!
-
----
-*NOTE*
-
-As this zip contains an .exe file, your virus software will likely mark it as suspicious,  
-especially because (as of the writing of this Readme file) the file is new  
-and not widely downloaded. I promise there are no virus on it (I triple checked).
+1. Run main.py to launch the game 
+2. Enjoy!
