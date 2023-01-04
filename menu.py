@@ -9,9 +9,9 @@ class Menu():
         self.mid_h = self.game.DISPLAY_H // 2
         self.runDisplay = True
         self.cursorRect = pygame.Rect(0, 0, 20, 20)
-        self.offset = -150
-        self.font = pygame.font.SysFont('OCR A Extended', 55, False, False)
-        self.font2 = pygame.font.SysFont('OCR A Extended', 75, True)
+        self.offset = -200
+        self.font = pygame.font.SysFont('OCR A Extended', 40, False, False)
+        self.font2 = pygame.font.SysFont('OCR A Extended', 55, True)
         #self.font = pygame.font.Font('media/8bit16.ttf', 20)#, False, False)
         #self.font2 = pygame.font.Font('media/8bit16.ttf', 40)#, True, False)
         self.waitCount = 0

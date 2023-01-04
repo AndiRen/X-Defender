@@ -172,7 +172,7 @@ class GameLoop:
         ################################################
     
     def printInfo(self):        
-        font = pygame.font.SysFont('OCR A Extended', 28)
+        font = pygame.font.SysFont('OCR A Extended', 16)
         text3 = "Kills: " + str(self.player.kills)
         text4 = " Boss Strength: " + str(self.boss.stg)
         text5 = "Laser Charge: " + str(self.player.ammo)
@@ -302,8 +302,8 @@ class GameLoop:
         ################################################
     #Display end screen ################################
     def displayEnd(self):
-        font = pygame.font.SysFont('OCR A Extended', 55)
-        font2 = pygame.font.SysFont('OCR A Extended', 75)
+        font = pygame.font.SysFont('OCR A Extended', 35)
+        font2 = pygame.font.SysFont('OCR A Extended', 50)
 
         text1 = 'Win!'
         text2 = 'Loose!'
