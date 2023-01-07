@@ -10,7 +10,7 @@ This repository houses the python scripts and media files needed to run the game
 REQUIREMENTS
 
 You will need to install the pygame module (v. 2.1.2 used).  
-Having sound turned on (with speaker of headphones in use) is necessary, or the game will crash.
+Having sound turned on (with speaker or headphones in use) is necessary, or the game will crash.
 
 ---
 INSTRUCTIONS FOR PLAY
